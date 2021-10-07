@@ -1,0 +1,8 @@
+C:\Users\User\Documents\SharpDevelop Projects\QuasarLagLogger\QuasarLagLogger\obj\Debug\QuasarLagLogger.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\QuasarLagLogger\QuasarLagLogger\obj\Debug\QuasarLagLogger.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\QuasarLagLogger\QuasarLagLogger\obj\Debug\QuasarLagLogger.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\QuasarLagLogger\QuasarLagLogger\bin\Debug\QuasarLagLogger.exe
+C:\Users\User\Documents\SharpDevelop Projects\QuasarLagLogger\QuasarLagLogger\bin\Debug\QuasarLagLogger.pdb
+C:\Users\User\Documents\SharpDevelop Projects\QuasarLagLogger\QuasarLagLogger\obj\Debug\QuasarLagLogger.exe
+C:\Users\User\Documents\SharpDevelop Projects\QuasarLagLogger\QuasarLagLogger\obj\Debug\QuasarLagLogger.pdb
+C:\Users\User\Documents\SharpDevelop Projects\QuasarLagLogger\QuasarLagLogger\obj\Debug\QuasarLagLogger.Form1.resources

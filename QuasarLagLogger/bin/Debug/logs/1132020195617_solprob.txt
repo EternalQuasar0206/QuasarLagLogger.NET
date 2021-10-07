@@ -1,0 +1,19 @@
+# Quasar Netview [Alpha - Build 1] - Log de Análise (Solução de Problemas) - 11/03/2020 19:56:17
+#
+# Conexão com 1.1.1.1 realizada com sucesso
+# Enviando (5) pacotes para: 1.1.1.1
+# Pacote de retorno recebido com sucesso
+# Pacote de retorno recebido com sucesso
+# Pacote de retorno recebido com sucesso
+# Pacote de retorno recebido com sucesso
+# Pacote de retorno recebido com sucesso
+# Perda de pacote com servidor 1.1.1.1: 0%
+# Conexão com Google realizada com sucesso
+# Enviando (5) pacotes para: www.google.com.br
+# Pacote de retorno recebido com sucesso
+# Pacote de retorno recebido com sucesso
+# Pacote de retorno recebido com sucesso
+# Pacote de retorno recebido com sucesso
+# Pacote de retorno recebido com sucesso
+# Perda de pacote com servidor www.google.com.br: 0%
+# Média de perda de pacote: 0%

@@ -1,0 +1,9 @@
+# Quasar Netview [Alpha - Build 1] - Log de Análise - 11/03/2020 19:51:11
+#
+# Obtida informação do endereço de IP Público do usuário
+# Obtida informação do endereço de IP Local do usuário
+# Latência com servidor indefinida
+# Status da conexão: Péssima [Apresenta qualidade ruim]
+# Informações de log da rota traçada (Via processador de comandos):
+# Sem Rota Traçada.
+
